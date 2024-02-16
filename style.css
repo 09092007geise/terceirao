@@ -8,5 +8,9 @@
     --quarto-botao: #EB549A;
 
 }
-    
+ body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'chakra petch', 'Sans-Serif' ;
+ }   
    
