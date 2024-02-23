@@ -28,3 +28,6 @@
     width: 100%;
     font-size: 32px;
 }
+.titulo-principal{
+    color:var(--segundo-botao)
+}
