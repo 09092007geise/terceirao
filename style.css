@@ -13,4 +13,7 @@
     color: var(--branco);
     font-family: 'chakra petch', 'Sans-Serif' ;
  }   
-   
+.conteudo-principal{
+    display:flex;
+    flex-direction: column;
+}   
