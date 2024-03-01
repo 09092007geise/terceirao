@@ -6,6 +6,7 @@
     --terceira-botao: #9D7DF0;
     --cor-de-fundo: #E8A3EB;
     --quarto-botao: #EB549A;
+    --cor-borda: FF73F1;
 
 }
  body{
@@ -41,8 +42,8 @@
     font-size: 18px;
     align-items: center;
     width: 100%;
-    border-bottom: 4px solid var(--botao-ativo);
-    border-left: 2px solid var(--botao-ativo);
+    border-bottom: 4px solid var(--botao-borda);
+    border-left: 2px solid var(--botao-borda);
     border-right: 2px solid var(--botao-ativo);
     border-top: none;
 
