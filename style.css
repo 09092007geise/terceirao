@@ -31,3 +31,10 @@
 .titulo-principal span{
     color:var(--segundo-botao)
 }
+.botao{
+    font-family: 'chakra Petch', 'sans-serif';
+    background-color:var(--cor-de-fundo);
+    color: var(--branco);
+    
+
+}
