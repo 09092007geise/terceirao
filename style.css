@@ -47,6 +47,8 @@
     border-right: 2px solid var(--cor-borda);
     border-top: none;
 }
-.botao{
+.botao:first-child{
+    border-radius: 40px 0 0 0;
+    
 
 }
