@@ -54,11 +54,11 @@
     display: block;
 }
 .ativo{
-   background-color: var(--terceira-botao);
+   background-color: var(--primeiro-botao);
    border-bottom: 4px solid var(--segundo-botao);
 }
 .abas-textos{
-   background-color: var(--terceira-botao);
+   background-color: var(--primeiro-botao);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
