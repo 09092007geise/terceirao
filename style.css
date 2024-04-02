@@ -42,9 +42,9 @@
     font-size: 18px;
     align-items: center;
     width: 100%;
-    border-bottom: 4px solid var(--primeiro-botao);
-    border-left: 2px solid var(--primeiro-botao);
-    border-right: 2px solid var(--primeiro-botao);
+    border-bottom: 4px solid var(--quarto-botao);
+    border-left: 2px solid var(--quarto-botao);
+    border-right: 2px solid var(--quarto-botao);
     border-top: none;
 }
 .botao:first-child{
@@ -54,11 +54,11 @@
     display: block;
 }
 .ativo{
-   background-color: var(--branco);
+   background-color: var(--terceira-botao);
    border-bottom: 4px solid var(--segundo-botao);
 }
 .abas-textos{
-   background-color: var(--primeiro-botao);
+   background-color: var(--terceira-botao);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
