@@ -54,7 +54,7 @@
     display: block;
 }
 .ativo{
-   background-color: var(--botao-ativo);
+   background-color: var(--branco);
    border-bottom: 4px solid var(--segundo-botao);
 }
 .abas-textos{
